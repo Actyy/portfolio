@@ -1,12 +1,12 @@
 import React from 'react';
-import "./PageHome.css"
+import "./Home.css"
 
-const PageHome = () => {
+const Home = () => {
     return (
         <div className="page-home-container">
-            <h1>Error 404</h1>
+            <h1>Home</h1>
         </div>
     );
 }
  
-export default PageHome;
+export default Home;
