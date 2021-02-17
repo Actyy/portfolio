@@ -1,0 +1,45 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.container-credentials {
+    margin: 20% auto;
+}
+
+.text-name {
+    font-size: 36px;
+}
+
+.text-description {
+    font-size: 18px;
+    text-align: center;
+}
+
+.background-image {
+    display: flex;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-credentials {
+    margin: 20% auto;
+}
+
+.container-icons {
+    display: flex;
+}
+
+.icons-settings {
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.space-icons {
+    padding-left: 12px;
+}
