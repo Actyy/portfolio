@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Portfolio 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/Acty" target="_blank">
-    <img alt="Twitter: Acty" src="https://img.shields.io/twitter/follow/Acty.svg?style=social" />
+  <a href="https://twitter.com/Acty123" target="_blank">
+    <img alt="Twitter: Acty123" src="https://img.shields.io/twitter/follow/Acty123.svg?style=social" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ npm run test
 👤 **Hugo Forestier**
 
 * Website: www.hugoforestier.com
-* Twitter: [@Acty](https://twitter.com/Acty)
+* Twitter: [@Acty123](https://twitter.com/Acty123)
 * Github: [@Actyy](https://github.com/Actyy)
 * LinkedIn: [@hugo-forestier-0993a317b\/](https://linkedin.com/in/hugo-forestier-0993a317b\/)
 
